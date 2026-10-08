@@ -1,1 +1,6 @@
+pandas
+pandas-ta
+matplotlib
+requests
+yfinance
 
